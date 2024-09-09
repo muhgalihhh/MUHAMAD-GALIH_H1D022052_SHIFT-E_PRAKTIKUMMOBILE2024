@@ -7,7 +7,6 @@ Repository ini berisi tugas-tugas praktikum pemrograman mobile yang dikerjakan o
 - **Nama**: Muhamad Galih
 - **NIM**: H1D022052
 
-![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
 
 ## Deskripsi
 
@@ -16,5 +15,6 @@ Dalam repository ini, terdapat tugas-tugas praktikum yang berfokus pada pengemba
 ## Daftar Tugas Tiap Pertemuan
 
 1. **Pertemuan 1**: Pengenalan Dart Secara Singkat
-
-
+   <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="100" height="100">
+</p>
