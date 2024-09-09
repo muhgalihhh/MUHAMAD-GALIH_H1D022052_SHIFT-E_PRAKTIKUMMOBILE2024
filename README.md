@@ -1,6 +1,6 @@
 # Tugas Praktikum Pemrograman Mobile
 
-![Banner](https://via.placeholder.com/1000x300?text=Tugas+Praktikum+Pemrograman+Mobile)
+![Banner](MUHAMAD-GALIH_H1D022052_SHIFT-E_PRAKTIKUMMOBILE2024/bannerr.png)
 
 Repository ini berisi tugas-tugas praktikum pemrograman mobile yang dikerjakan oleh:
 
