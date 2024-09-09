@@ -16,7 +16,8 @@ Tiap pertemuan terdapat folder Materi dan Tugas. Materi berisi modul-modul yang 
 ## Daftar Tugas Tiap Pertemuan
 
 1. **Pertemuan 1**: Pengenalan Dart Secara Singkat
+   **Tugas Pertemuan 1**: Membuat program sederhana dengan dart, yang saya buat adalah program 'suit'
    <p align="left">
      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" />
   </p>
-  **Tugas Pertemuan 1**: Membuat program sederhana dengan dart, yang saya buat adalah program 'suit'
+  
