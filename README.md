@@ -13,10 +13,10 @@ Repository ini berisi tugas-tugas praktikum pemrograman mobile yang dikerjakan o
 Dalam repository ini, terdapat tugas-tugas praktikum yang berfokus pada pengembangan aplikasi mobile. Setiap tugas bertujuan untuk memperdalam pemahaman tentang konsep-konsep pemrograman mobile.
 Tiap pertemuan terdapat folder Materi dan Tugas. Materi berisi modul-modul yang telah dikerjakan saat praktikum, Tugas berisi tugas yang diberikan setelah praktikum pada setiap pertemuan.
 
-## Daftar Tugas Tiap Pertemuan
+## Tugas dan Program yang dibuat dalam Pertemuan ini
 
-1. **Pertemuan 1**: Pengenalan Dart Secara Singkat <br/>
-   **Tugas Pertemuan 1**: Membuat program sederhana dengan dart, yang saya buat adalah program 'suit'
+**Pertemuan 1**: Pengenalan Dart Secara Singkat <br/>
+**Tugas Pertemuan 1**: Membuat program sederhana dengan dart, yang saya buat adalah program 'suit'
    <p align="left">
      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" />
   </p>
